@@ -3,7 +3,7 @@
 ## Description
 200,475 Sentences - Chinese Text Normalization Data. Annotate the special symbols and Arabic numerals in the sentences as Chinese characters.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1102?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1102?source=Github
 
 
 # Specifications
